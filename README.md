@@ -39,7 +39,7 @@ Nice3point Revit Toolkit
 
 ## Building
 
-Open `RevitPluggins.slnx` in Visual Studio 2022+. The project defines one build
+Open `RevitPlugins.slnx` in Visual Studio 2022+. The project defines one build
 configuration per supported Revit version — there is no plain `Debug`, so build
 with one of:
 

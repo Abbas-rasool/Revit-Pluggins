@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RevitPlugins/RevitPlugins.csproj">
+    <BuildType Solution="Debug|*" Project="Debug R24" />
+  </Project>
+</Solution>
