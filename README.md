@@ -7,7 +7,7 @@ driven by its own WPF interface.
 ## Tools
 
 ### Perimeter Rebars
-Automates top-bar reinforcement around a slab perimeter. The user picks a floor
+Automates top-bar reinforcement around a post tension slab perimeter. The user picks a floor
 (or an existing filled region), and the tool:
 
 - extracts the outer floor boundary,
@@ -17,8 +17,10 @@ Automates top-bar reinforcement around a slab perimeter. The user picks a floor
   zones), then places the rebar families and their tags.
 
 ### Turn-Down Slab
-Places slab-edge / turn-down profiles along selected floor edges, with support
+- Places slab-edge / turn-down profiles along selected floor edges, with support
 for multiple profile types (e.g. simple and brick edges).
+
+- User can add the dynanic extension types with a click, avoiding the tedious native revit approach. Useful in timber foundation modeling.
 
 ## Technical highlights
 
